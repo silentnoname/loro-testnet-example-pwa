@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@silent/pwa-test-15",
-  "version": "0.1.31",
+  "name": "@silent/pwa-test-16",
+  "version": "0.1.32",
   "repository": "https://github.com/silentnoname/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
